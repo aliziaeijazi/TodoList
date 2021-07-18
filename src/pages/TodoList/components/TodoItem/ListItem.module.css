@@ -1,0 +1,25 @@
+.item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    margin:  10px;
+    padding: 10px;
+    height: 400px;
+    box-shadow: 0 0 5px 2px gray;
+}
+.title{
+    padding: 5px 25px;
+    margin: 0 0 ;
+}
+.describtion{
+    padding: 10px 25px;
+    margin: 0;
+}
+
+.img {
+    display: flex;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}

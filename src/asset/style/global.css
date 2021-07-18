@@ -1,0 +1,14 @@
+html,body{
+    margin: 0;
+    width: 100%;
+}
+#root{
+    background-color: #eee;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    margin: auto;
+    font-size: 20px;
+}

@@ -1,0 +1,20 @@
+.text-input {
+    height: 40px;
+    outline: none;
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: large;
+    width: 100%;
+}
+.lable-input {
+    margin: 10px;
+    display: block;
+    font-weight: bold;
+}
+.input-feild{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 70%;
+}
